@@ -1,7 +1,37 @@
 [
-  {"titulo": "Plan de sostenibilidad", "texto": "Diseñamos el plan ambiental y social del evento antes de que empiece: diagnóstico, objetivos medibles, indicadores y responsables. Es el documento que piden cada vez más patrocinios, subvenciones y administraciones.", "puntos": "Diagnóstico del evento y de sus espacios\nObjetivos e indicadores medibles\nCompromisos de regeneración ambiental", "imagen": "", "imagen_alt": ""},
-  {"titulo": "Implementación de medidas", "texto": "Acompañamos a la organización para que el plan se cumpla de verdad en el montaje y durante el evento, y recogemos las evidencias sobre la marcha.", "puntos": "Movilidad, energía, agua y residuos\nProveedores locales y compras responsables\nCartelería, plásticos y comunicación", "imagen": "", "imagen_alt": ""},
-  {"titulo": "Huella de carbono", "texto": "Calculamos las emisiones de gases de efecto invernadero del evento en sus tres alcances y entregamos un informe claro, con las principales fuentes y propuestas para reducirlas la próxima edición.", "puntos": "Alcances 1, 2 y 3\nRecogida de datos y encuesta de movilidad\nInforme con propuestas de reducción", "imagen": "", "imagen_alt": ""},
-  {"titulo": "Verificación y memoria", "texto": "Como entidad técnica externa, contrastamos cada resultado con su evidencia y emitimos el informe de verificación que acompaña a la memoria de justificación.", "puntos": "Contraste de resultados con evidencias\nInforme técnico de verificación\nApoyo en la memoria de justificación", "imagen": "", "imagen_alt": ""},
-  {"titulo": "Indicadores sociales", "texto": "La sostenibilidad también es social. Medimos y acompañamos la paridad, la accesibilidad, la seguridad y los puntos de atención del evento.", "puntos": "Paridad artística y del equipo\nAccesibilidad y seguridad\nPunto Violeta", "imagen": "", "imagen_alt": ""}
+  {
+    "titulo": "Plan de sostenibilidad",
+    "texto": "Diseñamos el plan ambiental y social del evento antes de que empiece: diagnóstico, objetivos medibles, indicadores y responsables. Es el documento que piden cada vez más patrocinios, subvenciones y administraciones, como el plan inicial de sostenibilidad que exige Promotur Turismo de Canarias a los eventos que patrocina.",
+    "puntos": "Diagnóstico del evento y de sus espacios\nObjetivos e indicadores medibles\nCompromisos de regeneración ambiental",
+    "imagen": "",
+    "imagen_alt": ""
+  },
+  {
+    "titulo": "Implementación de medidas",
+    "texto": "Acompañamos a la organización para que el plan se cumpla de verdad en el montaje y durante el evento, y recogemos las evidencias sobre la marcha.",
+    "puntos": "Movilidad, energía, agua y residuos\nProveedores locales y compras responsables\nCartelería, plásticos y comunicación",
+    "imagen": "",
+    "imagen_alt": ""
+  },
+  {
+    "titulo": "Huella de carbono",
+    "texto": "Calculamos las emisiones de gases de efecto invernadero del evento en sus tres alcances y entregamos un informe claro, con las principales fuentes y propuestas para reducirlas la próxima edición.",
+    "puntos": "Alcances 1, 2 y 3\nRecogida de datos y encuesta de movilidad\nInforme con propuestas de reducción",
+    "imagen": "",
+    "imagen_alt": ""
+  },
+  {
+    "titulo": "Verificación y memoria",
+    "texto": "Como entidad técnica externa, contrastamos cada resultado con su evidencia y emitimos el informe de verificación que acompaña a la memoria de justificación.",
+    "puntos": "Contraste de resultados con evidencias\nInforme técnico de verificación\nApoyo en la memoria de justificación",
+    "imagen": "",
+    "imagen_alt": ""
+  },
+  {
+    "titulo": "Indicadores sociales",
+    "texto": "La sostenibilidad también es social. Medimos y acompañamos la paridad, la accesibilidad, la seguridad y los puntos de atención del evento.",
+    "puntos": "Paridad artística y del equipo\nAccesibilidad y seguridad\nPunto Violeta",
+    "imagen": "",
+    "imagen_alt": ""
+  }
 ]
